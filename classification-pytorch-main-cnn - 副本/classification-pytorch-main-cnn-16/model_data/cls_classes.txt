@@ -1,0 +1,16 @@
+Atelectasis
+Cardiomegaly
+Consolidation
+COVID
+Edema
+Effusion
+Emphysema
+Fibrosis
+Hernia
+Infiltration
+Mass
+Nodule
+Normal
+Pleural_Thickening
+Pneumonia
+Pneumothorax
